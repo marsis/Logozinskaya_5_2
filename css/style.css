@@ -1,0 +1,130 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.wrapper{
+	width:386px;
+	margin:0 auto;
+	border: 1px solid silver;
+
+}
+
+table {
+	
+	border-collapse:collapse;
+	}
+
+
+.s12{
+	width: 100px;
+	height: 50px;
+	background: white;
+	border-right: solid 9px black;
+	border-bottom: solid 9px black;
+	}
+.s345{
+	width: 150px;
+	height: 50px;
+	background: white;
+	border-right: solid 9px black;
+	border-bottom: solid 9px black;
+}
+.s67{
+	width: 100px;
+	height: 50px;
+	background: yellow;
+	border-bottom: solid 9px black;
+	
+}
+.bigsquare{
+	width: 200px;
+	height: 200px;
+	background:red;
+	border: solid 9px black;
+}
+.c815{
+	width: 50px;
+	height: 100px;
+	background: white;
+	border-bottom: solid 9px black;
+}
+.yellow_square{
+	width: 100px;
+	height: 100px;
+	background: yellow;
+	border-bottom: solid 9px black;
+}
+.c2734{
+	width: 50px;
+	height: 100px;
+	background: white;
+	border-right: solid 9px black;
+	border-bottom: solid 9px black;
+}
+
+.c2835{
+	width: 50px;
+	height: 100px;
+	background: white;
+	border-bottom: solid 9px black;
+}
+.c222936{
+	width: 50px;
+	height: 150px;
+	background: white;
+}
+.c435057{
+	width: 50px;
+	height: 150px;
+	background: yellow;
+	border-right: solid 9px black;
+	border-top: solid 9px black;
+}
+.black_square{
+	width: 100px;
+	height: 100px;
+	background: black;
+	border: solid 9px black;
+}
+.s3940{
+	width: 100px;
+	height: 50px;
+	background: white;
+	border-right: solid 9px black;
+	border-bottom: solid 9px black;
+}
+.s4647{
+	width: 100px;
+	height: 50px;
+	background: white;
+}
+.s5354{
+	width: 100px;
+	height: 50px;
+	background: black;
+}
+.blue_square{
+	width: 100px;
+	height: 100px;
+	background: blue;
+	border-left: solid 9px black;
+	border-top: solid 9px black;
+	
+}
+.white_square{
+	width: 100px;
+	height: 100px;
+	background: white;
+	border-right: solid 9px black;
+}
+.s4142{
+	width: 100px;
+	height: 50px;
+	background: white;
+}
+.c616263{
+	width: 200px;
+	height: 50px;
+	background: white;
+	border-top: solid 9px black;
+}
